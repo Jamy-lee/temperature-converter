@@ -1,0 +1,29 @@
+body {
+  background-color: grey;
+}
+
+#Heading {
+  margin-top: 50px;
+  text-align: center;
+  font-family: sans-serif;
+  color: white;
+}
+
+.container {
+  place-items: center;
+  /* width: 300px; */
+}
+
+#celc {
+  height: 100px;
+  background-color: lightgray;
+  border: 1px;
+  border-color: white;
+}
+
+#fahr {
+  height: 100px;
+  background-color: lightgray;
+  border: 1px;
+  border-color: white;
+}
