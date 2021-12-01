@@ -18,12 +18,21 @@ body {
   height: 100px;
   background-color: lightgray;
   border: 1px;
-  border-color: white;
+  border-radius: 5px;
 }
 
 #fahr {
   height: 100px;
   background-color: lightgray;
-  border: 1px;
-  border-color: white;
+  border-radius: 5px;
+}
+#F2C {
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 5px;
+}
+#C2F {
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 5px;
 }
